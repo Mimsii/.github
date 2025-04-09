@@ -6,7 +6,7 @@ Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **
 
 ### 🍿 An interconnected community
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+The closed source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
 - [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
 - Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
@@ -39,7 +39,7 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
 			</ul>
 		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced.</li>
+		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also closed sourced.</li>
 	</ul>
 </details>
 
