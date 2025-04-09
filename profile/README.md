@@ -19,13 +19,13 @@ Now that we are talking about the important things, ☝️ are you contributing 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
 - [GitHub CLI](https://github.com/mimsii/cli) - A command line tool for GitHub
-- [GitHub Desktop](https://github.com/desktop/desktop) - A visual approach to using Git with GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [GitHub Desktop](https://github.com/mimsii/desktop) - A visual approach to using Git with GitHub
+- [Git Large File Storage](https://github.com/mimsii/git-lfs) - A git extension for versioning large files
 - [Primer](https://github.com/primer/css) - The GitHub design system
 
 ### 👓 Appendix
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers). 🙌
+See what's next on our [public roadmap](https://github.com/mimsii/roadmap) ✨ and [let us know](https://github.com/mimsii/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers). 🙌
 
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
